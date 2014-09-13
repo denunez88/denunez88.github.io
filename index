@@ -1,0 +1,25 @@
+<html>
+<body>
+
+<h1>KB</h1>
+
+<p>CLIENTS</p>
+<a href="URL">LINK1</a>
+<a href="URL">LINK1</a>
+<a href="URL">LINK1</a>
+<br>
+<p>JTCULLEN Credentials</p>
+ <iframe src="Documentation\Network\P.txt" width="300" height="300">
+</iframe> 
+
+<iframe src="JT Cullen_Info.txt" width="500" height="300">
+</iframe> 
+<br>
+<iframe src="Documentation\Servers\Network and Server.htm" width="808" height="400">
+</iframe> 
+<?php
+
+?> 
+
+</body>
+</html>
