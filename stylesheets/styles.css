@@ -190,7 +190,6 @@ h2 {
 h3 {
   font-size: 1.17em;
   margin: 1em 0;
-  align-content: center;
 }
 
 h4 {
@@ -799,6 +798,9 @@ section #title h1 {
   font-size: 40px;
   text-align: center;
   line-height: 36px;
+}
+section #title h3 {
+  text-align: center;
 }
 section #title p {
   color: #d7cfbe;
